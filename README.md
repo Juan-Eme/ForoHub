@@ -42,9 +42,4 @@ Este proyecto es una aplicación Java desarrollada con Spring Boot para gestiona
    - Java Development Kit (JDK) versión 8 o superior.
    - Un entorno de desarrollo (IDE) como IntelliJ IDEA o Eclipse.
 
-## Notas
-
-- **Validación:** Asegúrate de enviar datos válidos al crear comentarios.
-- **Seguridad:** Considera agregar autenticación para entornos de producción.
-
 ¡Explora la API y gestiona comentarios fácilmente!
